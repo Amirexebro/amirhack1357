@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @amirhack1357
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+hack instagram
+ 
+ apt update
+ apt upgrade 
+ pkg install python
+ pkg install git
+ pip install requests
+ git clone https://github.com/Slayeri4/instahack
+cd instahac
+python hackinsta.py
 
-<!---
-amirhack1357/amirhack1357 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Cods👆
